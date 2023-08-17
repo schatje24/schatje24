@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @schatje24
+- 👀 I’m interested in web development, specifically front-end application and web design 
+- 🌱 I’m currently learning html, css, javascript, and react
+- ✨ Looking forward to learn more!
